@@ -3,6 +3,7 @@ import requests
 # Agregá aquí las listas públicas que quieras combinar
 FUENTES = [
     "https://iptv-org.github.io/iptv/index.m3u",
+    "https://m3u.cl/lista/LATAM.m3u",
 ]
 
 playlist = "#EXTM3U\n\n"
